@@ -21,3 +21,7 @@ Rotate Camera : Move Mouse
 I Gotta say The mobile Controls are Weird But IDK How To Improve Them :(
 
 #  Editing The Game 
+In The Github Page go to The "Godot Project(source code)" Folder and Download The Version Of The Game You Want To Modify Then Extract The ZIP file to Your Godot Projects Folders, Congrats You Can Edit The Game! to Publish it Read The Text Under This. 
+
+# Publishing Your Modified Game!
+
