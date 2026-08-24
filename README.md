@@ -24,4 +24,6 @@ I Gotta say The mobile Controls are Weird But IDK How To Improve Them :(
 In The Github Page go to The "Godot Project(source code)" Folder and Download The Version Of The Game You Want To Modify Then Extract The ZIP file to Your Godot Projects Folders, Congrats You Can Edit The Game! to Publish it Read The Text Under This. 
 
 # Publishing Your Modified Game!
+The Rules are Simple: 1- Keep Those Credits:<img width="234" height="91" alt="Credits" src="https://github.com/user-attachments/assets/9e6d0cb6-4d76-45ca-8e9c-cba1e8a60acb" />
+2- Put a Label Saying: modified by "your username" Now You Can Publish The Game if you Dont Follow The Rules I WILL Copyright You!  
 
